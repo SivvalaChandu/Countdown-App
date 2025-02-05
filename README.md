@@ -2,6 +2,7 @@
 
 ### Download : [Countdown](https://countdownday.netlify.app/)
 ## 🚀 Features  
+- The app comes with dark and light mode
 - Track days left for goals/events  
 - Visual progress circles (month/year)  
 - Material You design  
@@ -9,13 +10,13 @@
 
 ## App Interface
 ### Home Screen
-<img src="App_Images_For_Readme/Homescreen.jpg" /> 
+<img src="App_Images_For_Readme/Homescreen.jpg" width="300" /> 
 
 ### Add Event
-<img src="App_Images_For_Readme/AddEvent.jpg" />
+<img src="App_Images_For_Readme/AddEvent.jpg" width="300" />
 
 ### Notification
-<img src="App_Images_For_Readme/notification.jpeg" /> 
+<img src="App_Images_For_Readme/notification.jpeg" width="300" /> 
 
 ## Download Android App
 Get the latest APK: [Download Countdown](https://countdownday.netlify.app/)
