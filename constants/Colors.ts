@@ -1,26 +1,46 @@
-/**
- * Below are the colors that are used in the app. The colors are defined in the light and dark mode.
- * There are many other ways to style your app. For example, [Nativewind](https://www.nativewind.dev/), [Tamagui](https://tamagui.dev/), [unistyles](https://reactnativeunistyles.vercel.app), etc.
- */
-
-const tintColorLight = '#0a7ea4';
-const tintColorDark = '#fff';
-
 export const Colors = {
   light: {
-    text: '#11181C',
-    background: '#fff',
-    tint: tintColorLight,
-    icon: '#687076',
-    tabIconDefault: '#687076',
-    tabIconSelected: tintColorLight,
+    primary: "#6750A4",
+    onPrimary: "#FFFFFF",
+    primaryContainer: "#EADDFF",
+    onPrimaryContainer: "#21005E",
+    secondary: "#958DA5",
+    onSecondaryContainer: "#F4EDFF",
+    surface: "#FEF7FF",
+    onSurface: "#1C1B1F",
+    surfaceVariant: "#E7E0EC",
+    onSurfaceVariant: "#49454F",
+    outline: "#79747E",
+    outlineVariant: "#CAC4D0",
+    background: "#FEF7FF",
+    onCancel: "#EF5350",
+    onError: "#FFFFFF",
+    elevation: {
+      level0: "transparent",
+      level1: "#F7F2FA",
+      level2: "#F3EDF7",
+    },
   },
   dark: {
-    text: '#ECEDEE',
-    background: '#151718',
-    tint: tintColorDark,
-    icon: '#9BA1A6',
-    tabIconDefault: '#9BA1A6',
-    tabIconSelected: tintColorDark,
+    primary: "#673AB7",
+    onPrimary: "#381E72",
+    primaryContainer: "#7E57C2",
+    onPrimaryContainer: "#EADDFF",
+    secondary: "#CCC2DC",
+    onSecondaryContainer: "#9575CD",
+    surface: "#1C1B1F",
+    onSurface: "#E6E1E5",
+    surfaceVariant: "#49454F",
+    onSurfaceVariant: "#FFFFFF",
+    outline: "#938F99",
+    outlineVariant: "#49454F",
+    background: "#1C1B1F",
+    onCancel: "#EF5350",
+    onError: "#FFFFFF",
+    elevation: {
+      level0: "transparent",
+      level1: "#2D2A31",
+      level2: "#36343B",
+    },
   },
 };

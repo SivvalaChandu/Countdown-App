@@ -1,13 +1,11 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
-
-# dependencies
 node_modules/
-
+bun.lockb
 # Expo
 .expo/
 dist/
 web-build/
 expo-env.d.ts
+eas.json
 
 # Native
 *.orig.*
@@ -36,3 +34,4 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
